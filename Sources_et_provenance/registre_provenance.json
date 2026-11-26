@@ -1,0 +1,136 @@
+{
+  "titre": "Première – Classe inversée – Chapitre 1",
+  "date": "2026-11-26",
+  "originaux": [
+    {
+      "fichier": "Eleves/Capsule_1/capsule-1848.html",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\capsule-1848.html",
+      "sha256": "934714564937205874cfe4e0097c3b52fe349f985049db4128537dae77aa70c0"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/audio1.mp3",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\audio1.mp3",
+      "sha256": "3590c3348fc56bfcab9e8661a09a55b0f5f5cf16927f0db9089b651661186bdc"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/audio2.mp3",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\audio2.mp3",
+      "sha256": "86feac43560b9e805d31ff8c5e0485fbc14456113d35ef81d7b6191fe0c46c93"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/audio3.mp3",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\audio3.mp3",
+      "sha256": "bc63d34f13e4f26f85d2001e8caeb6a1e50d87eabbe5224f7eff58f9e700fcbf"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/audio4.mp3",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\audio4.mp3",
+      "sha256": "2cdf89e68dcf85b94adf25e4819ea4993b23c145b478673c4d2bdd098dea9815"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/audio5.mp3",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\audio5.mp3",
+      "sha256": "4bbb0e7a81361068dcc7dd4c44ac5cd56ec8aa526070ffd22d7230291509fc0b"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/texte-capsule-1848.html",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\texte-capsule-1848.html",
+      "sha256": "09ab9d3c209a65ee5da0bfdcc365de86350b8c29851cc456353c8254a3255fcb"
+    },
+    {
+      "fichier": "Eleves/Capsule_1/texte-capsule-1848.txt",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\texte-capsule-1848.txt",
+      "sha256": "aa8392ca0c0fe1680d87924bc45a796eb3c8ca1eae2fca926254736f86b306e0"
+    },
+    {
+      "fichier": "Eleves/P1/seance1.html",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Documents\\ChatGPT\\Classe inversée\\seance1.html",
+      "sha256": "011d96ac5e9528600d213d280474fe42aa052c96669c64da8d476b7950c53320"
+    },
+    {
+      "fichier": "Eleves/Capsule_2/preparation_2.html",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\AppData\\Local\\Temp\\codex-file-preview-qzSoAc\\preparation_2.html",
+      "sha256": "d259fabeaded5b1a1f037e35d1a47f646c4291b361c416b16e7d0e2c05b5e877"
+    },
+    {
+      "fichier": "Sources_et_provenance/Capsule_1848_narration.txt",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\AppData\\Local\\Temp\\codex-file-preview-007af6\\Capsule_1848_narration.txt",
+      "sha256": "347f6d5d209aed60aa9dbf57b678f29740e7664cd4d82cb35cfc54cecf88c1f5"
+    },
+    {
+      "fichier": "Sources_et_provenance/Manuel_p96-97.png",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\PATRIC~1\\AppData\\Local\\Temp\\codex-file-preview-BC9GTG\\image(20261126-072808).png",
+      "sha256": "06e917e4758167e0e641d811087ee2a0e03e4e1c9ba39a9a6d977bc7d28922d9"
+    },
+    {
+      "fichier": "Sources_et_provenance/Manuel_p92-93.png",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\PATRIC~1\\AppData\\Local\\Temp\\codex-file-preview-pi432g\\image(20261126-072738).png",
+      "sha256": "ac62c808a093d993a659de045e23116492ff89cad7007ee45982887a97a05a0b"
+    },
+    {
+      "fichier": "Sources_et_provenance/Manuel_p82-83.png",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\PATRIC~1\\AppData\\Local\\Temp\\codex-file-preview-0ArWhw\\image(20261125-082540).png",
+      "sha256": "b3c31b663ad65d8a426baaa824e63ec231a3834bfba0c5ab175aca55aecf26ba"
+    },
+    {
+      "fichier": "Sources_et_provenance/Alphonse de Lamartine en 1848 PPO.docx",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Champville\\Coo_HGFR_4e_tle - Documents\\26_1re_HG\\1er_Histoire_26\\Th2_Chp3_4_5\\H2 C3\\Alphonse de Lamartine en 1848 PPO.docx",
+      "sha256": "2ad1dafb3ed15c9ee1a040f27c902d5d4c1fc76d76d730799ace8306f774e5ac"
+    },
+    {
+      "fichier": "Sources_et_provenance/George Sand PPO.docx",
+      "statut": "Original récupéré, octets inchangés",
+      "source": "C:\\Users\\Patrick Habis\\Champville\\Coo_HGFR_4e_tle - Documents\\26_1re_HG\\1er_Histoire_26\\Th2_Chp3_4_5\\H2 C3\\George Sand PPO.docx",
+      "sha256": "b6ba62baff2f17bc2010293b0abfd23aa7d71f1fe870fa84f987aa1d909559a4"
+    }
+  ],
+  "reconstitutions": [
+    "Enseignants/Capsule_1_fiche_enseignant_RECONSTITUEE.docx",
+    "Enseignants/Capsule_2_fiche_enseignant_RECONSTITUEE.docx",
+    "Enseignants/P1_fiche_et_corrige_RECONSTITUES.docx",
+    "Enseignants/P2_fiche_et_corrige_RECONSTITUES.docx",
+    "Enseignants/P3_fiche_et_corrige_RECONSTITUES.docx",
+    "Enseignants/P4_fiche_corrige_et_grille_RECONSTITUES.docx",
+    "Eleves/P2/P2_echec_republicain_RECONSTITUE.html",
+    "Eleves/P3/P3_second_empire_RECONSTITUE.html",
+    "Eleves/P4/P4_evaluation_RECONSTITUEE.html",
+    "Eleves/P4/P4_sujet_et_autoevaluation_RECONSTITUES.docx"
+  ],
+  "echanges_sources": [
+    {
+      "titre": "Préparation capsule 2",
+      "id": "6b07d752-41b0-83ed-8065-dacaf1180573"
+    },
+    {
+      "titre": "Préparer la séance 1",
+      "id": "6b0692df-7a38-83ed-92b2-40694e76803b"
+    },
+    {
+      "titre": "Étudier l’échec républicain",
+      "id": "6b069b56-45f0-83eb-ad3b-9f005812fe7f"
+    },
+    {
+      "titre": "Projet classe inversée",
+      "id": "6afa9b72-109c-83ed-bb6d-35d60a7373d6"
+    },
+    {
+      "titre": "Mise au point",
+      "id": "6b07dde0-2224-83ed-8acd-a2bccb857432"
+    }
+  ]
+}

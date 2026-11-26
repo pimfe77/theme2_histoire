@@ -1,0 +1,22 @@
+GUIDE DE DIFFUSION
+
+Ouvrir Eleves/index.html pour accéder aux six supports. Les fiches et corrigés Word sont dans Enseignants. Le sujet imprimable de P4 est dans Eleves/P4.
+
+GITHUB PAGES
+1. Créer un dépôt public avec GitHub Free.
+2. Envoyer uniquement le CONTENU du dossier Eleves dans le dépôt : index.html doit se trouver à sa racine, avec les sous-dossiers et .nojekyll. Ne pas envoyer l’archive complète ni le dossier Enseignants.
+3. Dans Settings > Pages, choisir Deploy from a branch, main, /(root), puis Save.
+4. Attendre la publication et utiliser l’adresse affichée dans Pages. Partager ce lien dans Teams. Les élèves n’ont pas besoin de compte GitHub.
+5. Pour mettre à jour un support, remplacer le fichier dans le même emplacement. Respecter la casse et les noms des dossiers.
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+NETLIFY DROP
+Déposer le dossier Eleves sur https://app.netlify.com/drop. Conserver le site dans votre compte pour le gérer. Ne pas déposer le dossier complet contenant les corrigés et les captures de manuel.
+https://docs.netlify.com/deploy/create-deploys/
+
+TEAMS ET UTILISATION HORS CONNEXION
+Déposer le ZIP élèves dans les Supports de cours de l’équipe. Chaque élève télécharge et extrait l’archive avant d’ouvrir index.html. Les audios doivent rester à côté de capsule-1848.html. Pour une consultation directe sur téléphone, privilégier le lien du site hébergé.
+
+Les QCM sont autocorrectifs et consultables dans le navigateur ; ils n’envoient pas les résultats à l’enseignant. Les réponses en classe se font dans le cahier. Les originaux des capsules sont conservés ; les contenus reconstitués sont identifiés.
+
+Aucune mise en ligne n’a été effectuée. Le dossier est prêt à être déposé. La bibliothèque ChatGPT en ligne n’était pas accessible via les outils connectés et le navigateur disponible n’était pas connecté.

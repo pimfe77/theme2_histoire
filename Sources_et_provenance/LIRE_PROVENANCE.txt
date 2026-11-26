@@ -1,0 +1,37 @@
+PREMIÈRE – CLASSE INVERSÉE – CHAPITRE 1
+État du dossier au 26 novembre 2026
+
+ORIGINAUX RÉCUPÉRÉS, CONSERVÉS SANS MODIFICATION
+• Capsule 1 : capsule-1848.html, audio1.mp3 à audio5.mp3, texte-capsule-1848.html et .txt, issus du dossier local Documents/ChatGPT/Classe inversée.
+• P1 : seance1.html, issu du même dossier. Il comporte déjà les six étapes et la méthode APE.
+• Capsule 2 : preparation_2.html, récupéré dans le cache de prévisualisation. Deux copies retrouvées ont le même SHA-256 : d259fabeaded5b1a1f037e35d1a47f646c4291b361c416b16e7d0e2c05b5e877.
+• Autre narration capsule 1 : Capsule_1848_narration.txt, récupérée dans le cache de prévisualisation. Elle diffère de texte-capsule-1848.txt ; aucun alignement mot à mot avec les MP3 n’a été établi.
+
+RECONSTITUTIONS
+• P2 : création du HTML et de la fiche/corrigé Word à partir de « Étudier l’échec républicain » et de la capture du manuel p. 82–83.
+• P3 : création du HTML et de la fiche/corrigé Word à partir de « Mise au point » et des captures du manuel p. 92–93 et 96–97.
+• P4 : mise en fichier de la dernière proposition de 15 minutes dans « Mise au point », avec autoévaluation, corrigé et remédiation. La variante allégée de la fiche enseignant est facultative et n’a pas été appliquée au sujet élève.
+• P1 enseignant : reconstitution à partir de « Préparer la séance 1 », du HTML retrouvé et des corrigés locaux des PPO Lamartine et George Sand. Les pages originales 84–85 et 90–91 ne figuraient pas en pièces jointes accessibles : pas de citations ni de numéros inventés. La numérotation de George Sand provient du corrigé local.
+• Fiches enseignants des capsules : rédigées pour ce dossier, avec clés des QCM extraites des HTML originaux.
+• Pages d’accueil et guide de diffusion : créations nouvelles.
+
+SOURCES DE MANUEL CONSERVÉES
+• Trois captures originales fournies dans les échanges : p. 82–83, p. 92–93, p. 96–97.
+• Deux corrigés locaux PPO : Alphonse de Lamartine en 1848 PPO.docx ; George Sand PPO.docx.
+• L’infographie P1 mentionnée dans l’ancien échange n’a pas été récupérée. Elle n’a pas été recréée ni présentée comme un original.
+
+PRÉCISIONS HISTORIQUES ET PÉDAGOGIQUES
+• Correction d’une confusion dans le cours p. 83 : la victoire législative du parti de l’Ordre date de mai 1849.
+• Distinguer la rupture constitutionnelle de décembre 1851 et la fin formelle de la République en décembre 1852.
+• La capsule 2 originale annonce 20 minutes de lecture/notes + 5 minutes de QCM, soit 25 minutes. Son texte n’a pas été modifié.
+• P4 : la dernière proposition reste ambitieuse en 15 minutes ; cette limite est expliquée dans la fiche enseignant.
+
+VÉRIFICATION COMPLÉMENTAIRE
+Assemblée nationale, La Constitution républicaine :
+https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique/la-constitution-republicaine
+Assemblée nationale, La IIe République :
+https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors/histoire/1848-1852-la-iie-republique
+Assemblée nationale, Second Empire :
+https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/second-empire
+
+Le registre JSON donne les chemins de récupération et les empreintes SHA-256 des originaux. Les sources de manuel et les corrigés restent dans l’archive complète réservée à l’enseignant, hors du dossier élèves à héberger.
